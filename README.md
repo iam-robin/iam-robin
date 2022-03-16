@@ -5,8 +5,18 @@ specializing in component-driven development,</br>
 design systems and with a passion for generative art.
 
 <a href="https://twitter.com/iamrob_in">
-    <img alt="twitter" title="twitter" height="32" width="32" src="assets/twitter.svg">
+    <img alt="twitter" title="twitter" height="28" width="34" src="assets/linkedin.svg">
 </a>
+<a href="https://twitter.com/iamrob_in">
+    <img alt="twitter" title="twitter" height="28" width="34" src="assets/unsplash.svg">
+</a>
+<a href="https://twitter.com/iamrob_in">
+    <img alt="twitter" title="twitter" height="28" width="34" src="assets/twitter.svg">
+</a>
+
+</br>
+</br>
+</br>
 
 
 <details>
