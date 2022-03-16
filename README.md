@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I am Robin 👋
+
+A Frontend Developer based in Munich specializing in component-driven development, design systems and with a passion for generative art.
 
 <!--
 **iam-robin/iam-robin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
