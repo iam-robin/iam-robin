@@ -7,12 +7,6 @@ design systems and with a passion for generative art.
 <a href="https://www.linkedin.com/in/robin-spielmann-240ab322a/">
     <img alt="twitter" title="twitter" height="28" width="34" src="assets/linkedin.svg">
 </a>
-<a href="https://unsplash.com/@iam_robin">
-    <img alt="twitter" title="twitter" height="28" width="34" src="assets/unsplash.svg">
-</a>
-<a href="https://twitter.com/iamrob_in">
-    <img alt="twitter" title="twitter" height="28" width="34" src="assets/twitter.svg">
-</a>
 
 </br>
 </br>
