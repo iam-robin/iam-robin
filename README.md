@@ -7,16 +7,3 @@ design systems and with a passion for generative art.
 <a href="https://www.linkedin.com/in/robin-spielmann-240ab322a/">
     <img alt="twitter" title="twitter" height="28" width="34" src="assets/linkedin.svg">
 </a>
-
-</br>
-</br>
-</br>
-
-
-<details>
-<summary>👨🏼‍💻 some coding stats</summary>
-<br />
-
-![top technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-robin&layout=compact)
-
-</details>
